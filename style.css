@@ -1,3 +1,26 @@
 html {
-  background: lightgoldenrodyellow;
+  background: lightgrey;
+}
+
+html {
+  text-align: center;
+}
+
+ol {
+  text-align: left;
+}
+
+ul {
+  text-align: left;
+}
+
+h3 {
+  color: magenta;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
 }
